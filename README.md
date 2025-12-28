@@ -1,7 +1,7 @@
 # JupyterLite Dashboard (Pure Browser, No Server)
 
 This project publishes a **dynamic dashboard** that runs entirely in your browser (Pyodide) with **no server**.  
-It uses **pure JupyterLite** (no Voila/Voici).
+It uses **JupyterLite + Voilà** to render the notebook as a dashboard.
 
 ## How to use
 
