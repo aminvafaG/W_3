@@ -1,7 +1,7 @@
 # JupyterLite Dashboard (Pure Browser, No Server)
 
 This project publishes a **dynamic dashboard** that runs entirely in your browser (Pyodide) with **no server**.  
-It uses **pure JupyterLite** (no Voila/Voici).
+It uses **pure JupyterLite** (no Voilà/Voici).
 
 ## How to use
 
@@ -13,7 +13,7 @@ Once deployed, open your dashboard at:
 
 ```
 https://<YOUR_GH_USERNAME>.github.io/<YOUR_REPO>/lab/index.html?path=App.ipynb
-https://aminvafaG.github.io/W_3/lab/index.html?path=App.ipynb     
+https://aminvafaG.github.io/W_3/lab/index.html?path=App.ipynb
 
 ```
 
@@ -40,5 +40,5 @@ https://aminvafaG.github.io/W_3/lab/index.html?path=App.ipynb
 
 ## Notes
 
-- Pure JupyterLite cannot force “autorun on open.” If widgets do not appear immediately, click **Run → Run All** once.
+- The kernel auto-starts on open. If widgets do not appear immediately, click **Run → Run All** once.
 - Everything executes **in the browser**. No backend server, no Python on the host.

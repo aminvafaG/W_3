@@ -4,6 +4,9 @@
     "appName": "Lite Dashboard",
     "disabledExtensions": [],
     "settingsOverrides": {
+      "@jupyterlab/notebook-extension:tracker": {
+        "kernelAutostart": true
+      },
       "@jupyterlab/apputils-extension:themes": {
         "theme": "JupyterLab Light"
       }

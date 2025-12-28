@@ -37,7 +37,7 @@ jobs:
           jupyter lite build \
             --contents content \
             --output-dir _output/lab \
-            --base-url /W_02/lab/
+            --base-url /W_3/lab/
 
       - uses: actions/upload-pages-artifact@v3
         with: { path: _output/lab }
