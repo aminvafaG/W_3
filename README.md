@@ -13,7 +13,7 @@ Once deployed, open your dashboard at:
 
 ```
 https://<YOUR_GH_USERNAME>.github.io/<YOUR_REPO>/lab/index.html?path=App.ipynb
-https://aminvafaG.github.io/W_3/lab/index.html?path=App.ipynb   
+https://aminvafaG.github.io/W_3/lab/index.html?path=App.ipynb     
 
 ```
 
