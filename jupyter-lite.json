@@ -1,0 +1,12 @@
+{
+  "jupyter-lite-schema-version": 0,
+  "jupyter-config-data": {
+    "appName": "Lite Dashboard",
+    "disabledExtensions": [],
+    "settingsOverrides": {
+      "@jupyterlab/apputils-extension:themes": {
+        "theme": "JupyterLab Light"
+      }
+    }
+  }
+}
